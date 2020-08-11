@@ -14,6 +14,8 @@ public class GitTests {
         System.out.println ("===");
         System.out.println ("anviabvboa");
         System.out.println("----github----");
+        int a = 20;
+        int b = 20;
     }
 
 }
