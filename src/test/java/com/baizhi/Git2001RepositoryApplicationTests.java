@@ -12,6 +12,10 @@ public class Git2001RepositoryApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println ("===");
+        System.out.println ("===");
+        System.out.println ("==dev=");
+        System.out.println ("==dev1=");
+        System.out.println ("==dev2=");
     }
 
 }
